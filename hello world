@@ -1,0 +1,22 @@
+ It's a basic "Hello World" console application. If you're looking for something more complex or specific, please provide more details.
+   // Hello World Java Application
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+To run this code:
+
+Save the file as HelloWorld.java.
+Open a terminal window.
+Navigate to the directory where you saved the file.
+Compile the Java code using the javac command:
+j
+avac HelloWorld.java
+
+ Run the Java program using the java command:
+ java HelloWorld
+
+After following these steps, you should see Hello, World! printed to the console. This simple program is often the first that many Java programmers write when learning the language, and it's a great way to test your Java environment setup.
